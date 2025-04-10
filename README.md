@@ -9,16 +9,16 @@
 </p>
 
 <div align="center">
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujay-hk&theme=github_dark" />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sujay-hk&theme=github_dark"  />
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sujay-hk&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SUJAY-HK&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SUJAY-HK&theme=github_dark"  />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SUJAY-HK&theme=github_dark"  />
   <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SUJAY-HK&theme=github_dark"/>
-  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sujay-hk&theme=github_dark" />
+  <img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SUJAY-HK&theme=github_dark" />
 </div>
 
 <div align="center">
   <!-- GitHub Trophies -->
-  <img src="https://github-profile-trophy.vercel.app/?username=sujay-hk&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
+  <img src="https://github-profile-trophy.vercel.app/?username=SUJAY-HK&theme=darkhub&column=9&margin-w=11" alt="GitHub Trophies" style="width: 100%; display: inline-block;" />
 </div>
 
 
@@ -58,10 +58,10 @@
 <h2 align="center">Connect with Me</h2>
 
 <a href="https://www.linkedin.com/in/sujay-hk/" target="_blank" style="margin-right: 10px;">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="40" />
+  <img align="center" src="https://raw.githubusercontent.com/SUJAY-HK/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn Profile" height="40" width="40" />
 </a>
 
-<a href="https://github.com/sujay-hk" target="_blank" style="margin-right: 10px;">
+<a href="https://github.com/SUJAY-HK" target="_blank" style="margin-right: 10px;">
   <img align="center" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub Profile" height="40" width="40" />
 </a>
 
