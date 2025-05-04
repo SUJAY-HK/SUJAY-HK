@@ -60,7 +60,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/sujay-hk/" target="_blank">
-    <img src="https://raw.githubusercontent.com/SUJAY-HK/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="40" width="40"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="40" width="40"/>
+
   </a>
   &nbsp;
   <a href="https://github.com/SUJAY-HK" target="_blank">
